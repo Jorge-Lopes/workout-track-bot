@@ -1,0 +1,14 @@
+{
+  "name": "workout-track-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.16.3"
+  }
+}
